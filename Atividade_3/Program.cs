@@ -7,12 +7,10 @@ var databaseSetup = new DatabaseSetup(databaseConfig);
 var clienteRepository = new ClienteRepository(databaseConfig);
 var pedidoRepository = new PedidoRepository(databaseConfig);
 
-Console.WriteLine("Qual a database: ");
-var modelName = Console.ReadLine();
+var modelName = args[0];
+var modelAction = args[1];
 if(modelName == "Cliente")
 {
-    Console.WriteLine("\nQual o comando: ");
-    var modelAction = Console.ReadLine();
     if(modelAction == "Listar")
     {
         int indicador = 1;
@@ -49,8 +47,6 @@ if(modelName == "Cliente")
 
 else if(modelName == "Pedido")
 {
-    Console.WriteLine("\nQual o comando: ");
-    var modelAction = Console.ReadLine();
     if(modelAction == "Listar")
     {
         Console.WriteLine("\nPedido Listar");

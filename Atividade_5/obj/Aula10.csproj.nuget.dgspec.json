@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_4/Aula10.csproj": {}
+    "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_5/Aula10.csproj": {}
   },
   "projects": {
-    "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_4/Aula10.csproj": {
+    "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_5/Aula10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_4/Aula10.csproj",
+        "projectUniqueName": "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_5/Aula10.csproj",
         "projectName": "Aula10",
-        "projectPath": "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_4/Aula10.csproj",
+        "projectPath": "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_5/Aula10.csproj",
         "packagesPath": "/home/estudante1/.nuget/packages/",
-        "outputPath": "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_4/obj/",
+        "outputPath": "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/estudante1/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BGsOpAhUMpcORICPqmTKYLSD9HcwkD3mM5f31MZZC8Q5OfZyhIoXHrzCQo8oDkAj56PP0YpNYDOJMpO7wtli0Q==",
+  "dgSpecHash": "ckX7NGBBXFonJ+nnBoDhOp3QgrWah89fjRJkO6HmNUAntad42pVGZ47euuOFPWbac5Jil7jv3fYkEoDgNClWwQ==",
   "success": true,
-  "projectFilePath": "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_3/Aula10.csproj",
+  "projectFilePath": "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_5/Aula10.csproj",
   "expectedPackageFiles": [
     "/home/estudante1/.nuget/packages/microsoft.data.sqlite/7.0.5/microsoft.data.sqlite.7.0.5.nupkg.sha512",
     "/home/estudante1/.nuget/packages/microsoft.data.sqlite.core/7.0.5/microsoft.data.sqlite.core.7.0.5.nupkg.sha512",

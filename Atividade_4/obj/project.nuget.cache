@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "xLNWHXHhCQt21vUsjS9++Sc7PC2Rgnx5VG8WwYoIMDPil3l5gf21VvxQiOkrXJScase0vGavJpKgbX3Mo38o+A==",
+  "dgSpecHash": "5xcNIJr2F39A+wjGAhm3FTvzblsf3bsOv25CJrat4hG+cj41HIjAi5qfjldvxkDdxRFIA94WBQqkM8koJDAY6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zuerinha\\Downloads\\LP3\\Atividade_4\\Aula10.csproj",
+  "projectFilePath": "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_4/Aula10.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zuerinha\\.nuget\\packages\\microsoft.data.sqlite\\7.0.5\\microsoft.data.sqlite.7.0.5.nupkg.sha512",
-    "C:\\Users\\zuerinha\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
-    "C:\\Users\\zuerinha\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
-    "C:\\Users\\zuerinha\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
-    "C:\\Users\\zuerinha\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
-    "C:\\Users\\zuerinha\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
-    "C:\\Users\\zuerinha\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "/home/estudante1/.nuget/packages/microsoft.data.sqlite/7.0.5/microsoft.data.sqlite.7.0.5.nupkg.sha512",
+    "/home/estudante1/.nuget/packages/microsoft.data.sqlite.core/7.0.5/microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
+    "/home/estudante1/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/estudante1/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "/home/estudante1/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/estudante1/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.4/sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "/home/estudante1/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }
