@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_5/Aula10.csproj": {}
+    "D:\\Igor\\Escola\\3º Ano IFSP\\LP3\\LP3Codes\\Atividade_5\\Aula10.csproj": {}
   },
   "projects": {
-    "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_5/Aula10.csproj": {
+    "D:\\Igor\\Escola\\3º Ano IFSP\\LP3\\LP3Codes\\Atividade_5\\Aula10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_5/Aula10.csproj",
+        "projectUniqueName": "D:\\Igor\\Escola\\3º Ano IFSP\\LP3\\LP3Codes\\Atividade_5\\Aula10.csproj",
         "projectName": "Aula10",
-        "projectPath": "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_5/Aula10.csproj",
-        "packagesPath": "/home/estudante1/.nuget/packages/",
-        "outputPath": "/home/estudante1/Downloads/Csharp_Repository-main/Atividade_5/obj/",
+        "projectPath": "D:\\Igor\\Escola\\3º Ano IFSP\\LP3\\LP3Codes\\Atividade_5\\Aula10.csproj",
+        "packagesPath": "C:\\Users\\zuerinha\\.nuget\\packages\\",
+        "outputPath": "D:\\Igor\\Escola\\3º Ano IFSP\\LP3\\LP3Codes\\Atividade_5\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\zuerinha\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/estudante1/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\zuerinha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zuerinha\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -59,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
