@@ -18,7 +18,6 @@ if(modelName == "Cliente")
         Console.WriteLine("Id Cliente   Endereço do Cliente      Cidade      Região      Código Postal   País      Telefone");
         foreach (var cliente in clienteRepository.Listar())
         {
-            //Console.WriteLine($"\n{indicador}º Registro\nCliente Id: {cliente.ClienteId}\nEndereço: {cliente.Endereco}\nCidade: {cliente.Cidade}\nRegião: {cliente.Regiao}\nCódigo Postal: {cliente.CodigoPostal}\nPaís: {cliente.Pais}\nTelefone: {cliente.Telefone}\n");
             Console.WriteLine($"{cliente.ClienteId, -12} {cliente.Endereco, -24} {cliente.Cidade, -11} {cliente.Regiao, -11} {cliente.CodigoPostal, -15} {cliente.Pais, -9} {cliente.Telefone}");
             ++indicador;
         }
@@ -72,7 +71,7 @@ else if(modelName == "Pedido")
         int indicador = 1;
         foreach (var pedido in pedidoRepository.Listar())
         {
-            Console.WriteLine($"\n{indicador}º Registro\nId do Pedido: {pedido.PedidoId}\nId do Empregado: {pedido.EmpregadoId}\nData: {pedido.DataPedido}\nPeso: {pedido.Peso}\nCódigo da Transportadora: {pedido.CodTransportadora}\nId do Cliente: {pedido.PedidoClienteId}\n");
+            Console.WriteLine($"{pedido.PedidoId, -12} {pedido.EmpregadoId, -14} {pedido.DataPedido, -16} {pedido.Peso, -9} {pedido.CodTransportadora, -26} {pedido.PedidoClienteId}");
             ++indicador;
         }
         indicador = 1;
