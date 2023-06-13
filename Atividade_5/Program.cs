@@ -54,7 +54,7 @@ if(modelName == "Cliente")
         if(clienteRepository.Apresentar(clienteid))
         {
             var cliente = clienteRepository.GetById(clienteid);
-            Console.WriteLine($"\nCliente Id: {cliente.ClienteId}\nEndereço: {cliente.Endereco}\nCidade: {cliente.Cidade}\nRegião: {cliente.Regiao}\nCódigo Postal: {cliente.CodigoPostal}\nPaís: {cliente.Pais}\nTelefone: {cliente.Telefone}\n");
+            Console.WriteLine($"{cliente.ClienteId}, {cliente.Endereco}, {cliente.Cidade}, {cliente.Regiao}, {cliente.CodigoPostal}, {cliente.Pais}, {cliente.Telefone}");
         } 
         else 
         {
@@ -105,7 +105,7 @@ else if(modelName == "Pedido")
         if(pedidoRepository.Apresentar(pedidoid))
         {
             var pedido = pedidoRepository.GetById(pedidoid);
-            Console.WriteLine($"\nId do Pedido: {pedido.PedidoId}\nId do Empregado: {pedido.EmpregadoId}\nData: {pedido.DataPedido}\nPeso: {pedido.Peso}\nCódigo da Transportadora: {pedido.CodTransportadora}\nId do Cliente: {pedido.PedidoClienteId}\n");
+            Console.WriteLine($"{pedido.PedidoId}, {pedido.EmpregadoId}, {pedido.DataPedido}, {pedido.Peso}, {pedido.CodTransportadora}, {pedido.PedidoClienteId}");
         } 
         else 
         {
